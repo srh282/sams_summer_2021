@@ -28,33 +28,35 @@ This repository will (hopefully) serve as a central location for Sam's projects 
 
 ### Learning goals
 
-#### Bioinformatiics
-1. Rstudio + RMarkdwon
-1. Version control: git and github integration
-1. Basic shell programming
-1. Basic cluster computing
-1. +/- Snakemake
+#### 1. Bioinformatiics
+- Rstudio + RMarkdwon
+- Version control: git and github integration
+- Basic shell programming
+- Basic cluster computing
+- +/- Snakemake
 
-#### Lab techniques
-1. Cell culture
-1. Electronic lab notebook documentation
+#### 2. Lab techniques
+- Cell culture
+- Electronic lab notebook documentation
 
 ### Output goals
 
-1. Collaborate on RNAseq analysis of exogenous/endogenous FeLV dataset, including:
-    - Troubleshooting analytical pipeline
-    - Generating and writing up preliminary results
-    - Generating associated figures
-1. Fully proficient in (and able to teach me!) mammalian fibroblast cell culture protocols.
-    - Obtain training from Raegan before she leaves in July.
-    - Additional training as necessary from Laura, other lab mates.
-1. Help develop project design for larger FeLV cell culture + genome sequencing project.
+#### 1. Collaborate on RNAseq analysis of exogenous/endogenous FeLV dataset, including:
+- Troubleshooting analytical pipeline
+- Generating and writing up preliminary results
+- Generating associated figures
+
+#### 2. Fully proficient in (and able to teach me!) mammalian fibroblast cell culture protocols.
+- Obtain training from Raegan before she leaves in July.
+- Additional training as necessary from Laura, other lab mates.
+
+#### 3. Help develop project design for larger FeLV cell culture and genome sequencing project.
 
 ----
 
 ## Expectations
 
-### Coby's expectations
+### My expectations
 Much of what you'll be doing is computer-based and independent. This is great, but it can also be daunting and/or hard to keep to a schedule and self-motivate. To help with this, let's set up the following expectations:
 
 1. Weekly in-person (or virtual) meetings to go over progress.
@@ -64,7 +66,7 @@ Much of what you'll be doing is computer-based and independent. This is great, b
 1. That you learn some useful tools that will be beneficial to you for future projects and career goals.
 1. That you have fun!
 
-### Sam's expectations
+### Your expectations
 
 <insert your expectations here once you figure out git/github `r emo::ji("thumbs up")` >
 

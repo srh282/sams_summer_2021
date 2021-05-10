@@ -6,8 +6,8 @@ Sam’s summer research plan
       - [Learning goals](#learning-goals)
       - [Output goals](#output-goals)
   - [Expectations](#expectations)
-      - [Coby’s expectations](#cobys-expectations)
-      - [Sam’s expectations](#sams-expectations)
+      - [My expectations](#my-expectations)
+      - [Your expectations](#your-expectations)
   - [Timeline](#timeline)
 
 **last updated:** 2021-05-10
@@ -26,38 +26,39 @@ a timeline here, and amend as necessary.
 
 ### Learning goals
 
-#### Bioinformatiics
+#### 1\. Bioinformatiics
 
-1.  Rstudio + RMarkdwon
-2.  Version control: git and github integration
-3.  Basic shell programming
-4.  Basic cluster computing
-5.  \+/- Snakemake
+  - Rstudio + RMarkdwon
+  - Version control: git and github integration
+  - Basic shell programming
+  - Basic cluster computing
+  - \+/- Snakemake
 
-#### Lab techniques
+#### 2\. Lab techniques
 
-1.  Cell culture
-2.  Electronic lab notebook documentation
+  - Cell culture
+  - Electronic lab notebook documentation
 
 ### Output goals
 
-1.  Collaborate on RNAseq analysis of exogenous/endogenous FeLV dataset,
-    including:
-      - Troubleshooting analytical pipeline
-      - Generating and writing up preliminary results
-      - Generating associated figures
-2.  Fully proficient in (and able to teach me\!) mammalian fibroblast
-    cell culture protocols.
-      - Obtain training from Raegan before she leaves in July.
-      - Additional training as necessary from Laura, other lab mates.
-3.  Help develop project design for larger FeLV cell culture + genome
-    sequencing project.
+#### 1\. Collaborate on RNAseq analysis of exogenous/endogenous FeLV dataset, including:
+
+  - Troubleshooting analytical pipeline
+  - Generating and writing up preliminary results
+  - Generating associated figures
+
+#### 2\. Fully proficient in (and able to teach me\!) mammalian fibroblast cell culture protocols.
+
+  - Obtain training from Raegan before she leaves in July.
+  - Additional training as necessary from Laura, other lab mates.
+
+#### 3\. Help develop project design for larger FeLV cell culture and genome sequencing project.
 
 -----
 
 ## Expectations
 
-### Coby’s expectations
+### My expectations
 
 Much of what you’ll be doing is computer-based and independent. This is
 great, but it can also be daunting and/or hard to keep to a schedule and
@@ -76,7 +77,7 @@ expectations:
     future projects and career goals.
 5.  That you have fun\!
 
-### Sam’s expectations
+### Your expectations
 
 \<insert your expectations here once you figure out git/github 👍 \>
 
