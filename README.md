@@ -83,13 +83,13 @@ expectations:
 
 ## Timeline
 
-| Due date | Goal                                                                                                                                                        | Date completed | Output notes/links |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 5/14/21  | Meet with Raegan to go over summer cell culturing plan                                                                                                      |                |                    |
-| 5/14/21  | [Classes 1-5 of online data science class](%22https://nt246.github.io/NTRES6940-data-science/syllabus.html%22)                                              |                |                    |
-| 5/14/21  | Read background literature on FeLV, generate annotated bibliography                                                                                         |                |                    |
-| 5/14/21  | Research+choose best electronic lab notebook, whether github integration is possible                                                                        |                |                    |
-| 5/21/21  | Start cell culture with Raegan                                                                                                                              |                |                    |
-| 5/21/21  | Obtain Summit account                                                                                                                                       |                |                    |
-| 5/21/21  | [Chapters 1-4 of Eric Anderson’s Bioinformatics Handbook](%22https://eriqande.github.io/eca-bioinf-handbook/essential-unixlinux-terminal-knowledge.html%22) |                |                    |
-| 5/21/21  | [Classes 6-9 of online data science class](%22https://nt246.github.io/NTRES6940-data-science/syllabus.html%22)                                              |                |                    |
+| Due date | Goal                                                                                                                                                  | Date completed | Output notes/links |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
+| 5/14/21  | Meet with Raegan to go over summer cell culturing plan                                                                                                |                |                    |
+| 5/14/21  | [Classes 1-5 of online data science class](https://nt246.github.io/NTRES6940-data-science/syllabus.html)                                              |                |                    |
+| 5/14/21  | Read background literature on FeLV, generate annotated bibliography                                                                                   |                |                    |
+| 5/14/21  | Research+choose best electronic lab notebook, whether github integration is possible                                                                  |                |                    |
+| 5/21/21  | Start cell culture with Raegan                                                                                                                        |                |                    |
+| 5/21/21  | Obtain Summit account                                                                                                                                 |                |                    |
+| 5/21/21  | [Chapters 1-4 of Eric Anderson’s Bioinformatics Handbook](https://eriqande.github.io/eca-bioinf-handbook/essential-unixlinux-terminal-knowledge.html) |                |                    |
+| 5/21/21  | [Classes 6-9 of online data science class](https://nt246.github.io/NTRES6940-data-science/syllabus.html)                                              |                |                    |
