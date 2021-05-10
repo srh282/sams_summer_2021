@@ -66,16 +66,17 @@ self-motivate. To help with this, let’s set up the following
 expectations:
 
 1.  Weekly in-person (or virtual) meetings to go over progress.
-2.  Email communication as necessary for troubleshooting.
+2.  Monthly group meetings with Sue to keep her updated.
+3.  Email communication as necessary for troubleshooting.
       - Since we’re all working independently on a bunch of different
         projects, it can be hard to keep track of what’s going on. I’ll
         check in with you minimally weekly, and more frequently if you
         prefer. If you need help with anything, please feel free to ask
         at any point\!
-3.  Time commitment: 40 hrs/week.
-4.  That you learn some useful tools that will be beneficial to you for
+4.  Time commitment: 40 hrs/week.
+5.  That you learn some useful tools that will be beneficial to you for
     future projects and career goals.
-5.  That you have fun\!
+6.  That you have fun\!
 
 ### Your expectations
 
@@ -87,7 +88,7 @@ expectations:
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
 | 5/14/21  | Meet with Raegan to go over summer cell culturing plan                                                                                                |                |                    |
 | 5/14/21  | [Classes 1-5 of online data science class](https://nt246.github.io/NTRES6940-data-science/syllabus.html)                                              |                |                    |
-| 5/14/21  | Read background literature on FeLV, generate annotated bibliography                                                                                   |                |                    |
+| 5/14/21  | [Read background literature on FeLV, generate annotated bibliography](FeLV_references.Rmd)                                                            |                |                    |
 | 5/14/21  | Research+choose best electronic lab notebook, whether github integration is possible                                                                  |                |                    |
 | 5/21/21  | Start cell culture with Raegan                                                                                                                        |                |                    |
 | 5/21/21  | Obtain Summit account                                                                                                                                 |                |                    |
