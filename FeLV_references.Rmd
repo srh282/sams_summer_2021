@@ -1,10 +1,9 @@
 ---
 title: "FeLV papers to read"
 output:
-  html_document:
+  github_document:
     toc: true
     toc_depth: 3
-    df_print: paged
 ---
 
 Here are a few papers to get you started. If you don't already have a citation manager, I would recommend Zotero because it integrates well with RMarkdown.
